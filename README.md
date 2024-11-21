@@ -1,0 +1,1 @@
+# satis_verisi_analiz
