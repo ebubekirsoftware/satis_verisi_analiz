@@ -1,16 +1,10 @@
 # Veri Analizi ve Satış Eğilimleri Ödevi
 
+NOT: Tüm görselleştirmeler RAPOR.pdf dosyasında verilmiştir. Bu yüzden ek bir sunum hazırlanmamıştır. Kullanılan gereksinimlerin verssiyon bilgisi requirements.txt'de mevcuttur.
+
+
 Bu repo, veri analizi ve satış eğilimlerinin incelenmesi amacıyla yapılan bir ödev projesini içermektedir. Proje, çeşitli analiz teknikleri kullanarak satış verilerini incelemekte ve satışların zaman içindeki değişimini, farklı kategoriler arasındaki farkları ve daha fazlasını araştırmaktadır.
 
-## İçindekiler
-
-1. [Veri Analizi ve Temizleme](#veri-analizi-ve-temizleme)
-2. [Zaman Serisi Analizi](#zaman-serisi-analizi)
-3. [Haftalık ve Aylık Satış Analizi](#haftalık-ve-aylık-satış-analizi)
-4. [Kategorisel ve Sayısal Analiz](#kategorisel-ve-sayısal-analiz)
-5. [İleri Düzey Veri Manipülasyonu](#ileri-düzey-veri-manipülasyonu)
-6. [Kurulum ve Kullanım Talimatları](#kurulum-ve-kullanım-talimatları)
-7. [Sonuçlar](#sonuçlar)
 
 ## Veri Analizi ve Temizleme
 
@@ -51,13 +45,3 @@ Bu adımda daha ileri düzey veri manipülasyonları yapılmıştır:
 - **Şehir Bazında Toplam Harcama**: Şehirlere göre toplam harcama miktarları hesaplanmıştır.
 - **Ürün Bazında Satış Artışı**: Ürün bazında satış artışı oranları hesaplanmıştır.
 - **Kategori Bazında Aylık Satış Değişim Analizi**: Aylık bazda kategorilerin satış değişimleri analiz edilmiştir.
-
-## Kurulum ve Kullanım Talimatları
-
-Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
-
-### 1. Repo'yu Klonlayın
-
-```bash
-git clone https://github.com/kullanici_adi/odev-veri-analizi.git
-cd odev-veri-analizi
